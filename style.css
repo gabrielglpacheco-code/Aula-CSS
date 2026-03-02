@@ -1,0 +1,21 @@
+p{
+    color: blue;
+}
+
+a{ 
+    color: red;
+}
+
+#paragrafo1 {
+    color:green;
+    font-weight: bold;
+}
+
+div{
+    height: 200px;
+    color: black;
+}
+
+.negrito {
+    font-weight: bold;
+}
